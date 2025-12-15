@@ -4,14 +4,13 @@
 
 ```js
 const me = {
-    Known: {HTML, CSS, JavaScript, Java, C++, SQL},
-    Learning: {Python, NodeJS, React, Art, etc}.
-    Hobbies: {
-        Art: "Digital",
-        Anime: {Adventure, Fantasy},
-        Games: {Action, Horror, Gacha}
-    }
-}
+  Known: ["HTML", "CSS", "JS", "Java", "C++", "SQL"],
+  Learning: ["Python", "NodeJS", "React", "Art"],
+  Hobbies: {
+    Art: "Digital",
+    Anime: ["Adventure", "Fantasy"],
+  },
+};
 ```
 
 ## About Me
