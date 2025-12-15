@@ -4,11 +4,12 @@
 
 ```js
 const me = {
-    Known: {HTML, CSS, JS, Java, C++, SQL},
-    Learning: {Python, NodeJS, React, Art, etc}.
+    Known: {"HTML", "CSS", "JS", "Java", "C++", "SQL"},
+    Learning: {"Python", "NodeJS", "React", "Art"}.
     Hobbies: {
         Art: "Digital",
-        Anime: {Adventure, Fantasy},
+        Anime: {"Adventure", "Fantasy"},
+        Games: {"Action", "Horror", "Gacha"},
     }
 }
 ```
