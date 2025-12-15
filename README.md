@@ -20,6 +20,7 @@ const me = {
 - ⚔️ Likes to watch anime and movies in free time
 - 🎮 Has interest in video games
 - 🤖 Creator of Ms. GUI
+- 🎓 A Member and Officer of **CompSciety** _(Computer Science Society)_ at the SY 2025-2026
 
 ## 🧭 Learning
 
@@ -27,6 +28,7 @@ const me = {
 - 🤖 Learning Python for AI
 - 🖋️ Refining my artstyle by learning color theory
 - 💻 Refining Data Structures and Algorithms knowledge via Leet Code
+- 🎓 College
 
 ## Socials
 
