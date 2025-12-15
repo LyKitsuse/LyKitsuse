@@ -10,6 +10,7 @@ An aspiring full stack web developer who likes to explore and learn things progr
 - 💻 I like learning about Programming
 - ⚔️ Likes to watch anime and movies in free time
 - 🎮 Has interest in video games
+- 🛠️ Doing projects to learn effectively from key lessons
 - 🤖 Creator of GUI-sama
 - 🎓 A Member and Officer of **CompSciety** _(Computer Science Society)_ at the SY 2025-2026
 
@@ -35,13 +36,13 @@ An aspiring full stack web developer who likes to explore and learn things progr
 ```js
 const me = {
   Name: "Gab"
-  Known: ["HTML", "CSS", "JS", "Java", "C++", "SQL"],
+  Code: ["HTML", "CSS", "JS", "Java", "C", "C++", "SQL"],
   Learning: ["Python", "NodeJS", "React", "Art"],
   Hobbies: {
     Art: "Digital",
-    Anime: ["Adventure", "Fantasy"],
+    Anime: ["Adventure", "Fantasy", "Mystery"],
   },
 };
 ```
 
-> "The past is past, now, nbut that's you know, that's okay! It's never really gone completely. The future is always built on the past, even if we won't get to see it." - Riebeck
+> "The past is past, now, but that's you know, that's okay! It's never really gone completely. The future is always built on the past, even if we won't get to see it." - Riebeck
