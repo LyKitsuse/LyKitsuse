@@ -4,12 +4,12 @@
 
 ```js
 const me = {
-    Known: {"HTML", "CSS", "JS", "Java", "C++", "SQL"},
-    Learning: {"Python", "NodeJS", "React", "Art"}.
+    Known: {HTML, CSS, JavaScript, Java, C++, SQL},
+    Learning: {Python, NodeJS, React, Art, etc}.
     Hobbies: {
         Art: "Digital",
-        Anime: {"Adventure", "Fantasy"},
-        Games: {"Action", "Horror", "Gacha"},
+        Anime: {Adventure, Fantasy},
+        Games: {Action, Horror, Gacha}
     }
 }
 ```
@@ -20,6 +20,7 @@ const me = {
 - 💻 I like learning about Programming
 - ⚔️ Likes to watch anime and movies in free time
 - 🎮 Has interest in video games
+- 🤖 Creator of Ms. GUI
 
 ## 🧭 Learning
 
