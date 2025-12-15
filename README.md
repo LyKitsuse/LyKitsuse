@@ -2,7 +2,7 @@
 
 > IRL Name: Gabrielle
 
-```
+```js
 const me = {
     Known: {HTML, CSS, JS, Java, C++, SQL},
     Learning: {Python, NodeJS, React, Art, etc}.
