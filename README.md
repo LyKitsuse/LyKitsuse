@@ -47,6 +47,9 @@ const me = {
 };
 ```
 
-<div align="center">[![LyKitsuse's GitHub stats](https://github-readme-stats.vercel.app/api?username=LyKitsuse)](https://github.com/LyKitsuse/github-readme-stats)</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LyKitsuse&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
 
 > "The past is past, now, but that's you know, that's okay! It's never really gone completely. The future is always built on the past, even if we won't get to see it." - Riebeck
