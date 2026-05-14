@@ -16,15 +16,15 @@ An aspiring full stack web developer who likes to explore and learn things progr
 
 ## 🛠️ Skills
 - Web: HTML, CSS, JS
-- Languages: C++, C, Java
+- Languages: C++, C, Java, C#, Python
 - Database: SQL
 
 ## 🧭 Learning
 
 - 🌐 Trying to learn Full Stack Web Development via The Odin Project
-- 🤖 Learning Python for AI
+- 🤖 Learning Python for AI, also learning Agentic AI 
 - 🖋️ Refining my artstyle by learning color theory
-- 💻 Refining Data Structures and Algorithms knowledge via Leet Code
+- 💻 Refining Data Structures and Algorithms knowledge via Leet Code (Working on it)
 - 🎓 College
 
 ## 🌐 Socials
